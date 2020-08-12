@@ -542,7 +542,7 @@ var TextScramble = /*#__PURE__*/function () {
   return TextScramble;
 }();
 
-var phrases = ['HELLO, wellcome to my site!', 'I am Sergey Mykhailychenko'];
+var phrases = ['HELLO, welcome to my site!', 'I am Sergey Mykhailychenko'];
 var el = document.querySelector('.helloText__text');
 var fx = new TextScramble(el);
 var counter = 0;
